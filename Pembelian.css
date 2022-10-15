@@ -1,0 +1,57 @@
+input{
+
+    display: block;
+    width: 320px;
+    height: 30px;
+}
+
+
+select{
+    display: block;
+    width: 170px;
+    height: 30px;
+    padding: 5px;
+}
+
+label{
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.container{
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    border: 2px black solid;
+    border-radius: 13px;
+    padding: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(250, 250, 250);
+
+}
+
+hr{
+    color: rgb(167, 167, 167);
+    size: 1px;
+}
+
+button{
+
+    padding: 14px;
+    color: white;
+    background-color: rgb(68, 151, 161);
+    border: 0px;
+    border-radius: 10px;
+}
+
+.Check{
+
+    margin-left: 8px;
+
+}
+
+body{
+
+    background-image: url(leaves.webp)
+}
